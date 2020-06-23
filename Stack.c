@@ -1,19 +1,3 @@
-
----------- Forwarded message ---------
-From: churashma Hegde <hegdechurashma@gmail.com>
-Date: Tue, 23 Jun 2020, 12:32 pm
-Subject: Fwd:
-To: <anusha20219@gmail.com>
-
-
-
----------- Forwarded message ---------
-From: Chandana S <chandanasreddy70@gmail.com>
-Date: Tue, 23 Jun 2020, 12:32 pm
-Subject:
-To: <hegdechurashma@gmail.com>
-
-
 #include <bits/stdc++.h>
 using namespace std;
 stack<int> sortStack(stack<int> &input)
